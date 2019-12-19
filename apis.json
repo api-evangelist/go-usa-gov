@@ -1,0 +1,49 @@
+{
+    "name": "Go.USA.gov",
+    "description": "We help you discover official U.S. government information and services on the Internet.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1420-go-usa-gov.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "url shorteners"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/go-usa-gov\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Go.USA.gov",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1420-go-usa-gov.jpg",
+            "humanURL": "https:\/\/go.usa.gov\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/go-usa-gov-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/go-usa-gov-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/us-government"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/USAgov"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/go.usa.gov\/api"
+        }
+    ]
+}
